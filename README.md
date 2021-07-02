@@ -1,4 +1,4 @@
-#Randomized password CREATOR
+# Randomized password CREATOR
 
 For security purposes many sites and or company's use passwords to verify indentity.
 
